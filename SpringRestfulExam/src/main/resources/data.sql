@@ -1,10 +1,3 @@
-insert into Customer values (321,'Sagarika',34000.90);
-
-insert into Customer values (322,'Lisel',72300.50);
-
-insert into Customer values (323,'Alaska',56000.00);
-
-insert into Customer values (324,'Bruno',35000.40);
-
-insert into Customer values (325,'Smuel',67000.80);
-
+insert into Customer Values(1233,'kolkata','lisel','lisel Roy',6459878,'lisel@123');
+insert into Customer Values(1334,'behala','bruno','bruno Gupta',6572314,'bruno@39');
+insert into Customer Values(1299,'kolkata','siya345','Siya Kumar'5349087,'Siya@9876');
